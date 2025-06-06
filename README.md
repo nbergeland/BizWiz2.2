@@ -52,7 +52,7 @@ pip install -r requirements.txt
 ### **Installation**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/bizwiz2.2.git
+git clone https://github.com/nbergeland/bizwiz2.2.git
 cd bizwiz
 
 # Install dependencies
