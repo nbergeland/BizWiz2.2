@@ -364,8 +364,8 @@ We welcome contributions!
 ### **Development Setup**
 ```bash
 # Fork and clone the repository
-git clone https://github.com/yourusername/bizwiz.git
-cd bizwiz
+git clone https://github.com/nbergeland/BizWiz2.2.git
+cd bizwiz2.2
 
 # Install development dependencies
 pip install -r requirements-dev.txt
@@ -396,9 +396,6 @@ black src/
 
 ## 📞 **Support & Contact**
 
-- **Documentation**: [Wiki](https://github.com/nbergeland/bizwiz2.2/wiki)
-- **Issues**: [GitHub Issues](https://github.com/nbergeland/bizwiz2.2/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/nbergeland/bizwiz2.2/discussions)
 - **Email**: contact@bbsllc.ai 
 
 ## 🔮 **Roadmap**
@@ -423,6 +420,6 @@ black src/
 
 ---
 
-**Built with ❤️ for the data driven decision making**
+**Built with ❤️ for data driven decision making**
 
 *Transform your expansion strategy with data-driven location intelligence.*
