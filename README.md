@@ -1,7 +1,6 @@
 # 🍗 BizWiz2.2: AI-Powered Commercial Location Intelligence System
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
 
 **BizWiz** is an advanced commercial location analysis system designed to identify optimal restaurant locations using machine learning, demographic analysis, and competitive intelligence. Originally developed for Raising Cane's expansion analysis, it supports **300+ cities across the continental United States**.
