@@ -33,9 +33,9 @@ print(f".env file exists: {os.path.exists('.env')}")
 # Check what's in the environment
 print(f"All env vars with GOOGLE: {[k for k in os.environ.keys() if 'GOOGLE' in k.upper()]}")
 
-CENSUS_API_KEY='a70b1f4d848a351bc3681d063ca6e9586d1e610d'
-GOOGLE_API_KEY='AIzaSyDhW2qpk-0gwK2p-clLpcNphRqZnqkarhs'
-RENTCAST_API_KEY='2cb0171026904bb59365a08c72dd3383' 
+CENSUS_API_KEY='YOURAPIHERE'
+GOOGLE_API_KEY='YOURAPIHERE'
+RENTCAST_API_KEY='YOURAPIHERE' 
 
 print(f"GOOGLE_API_KEY value: '{GOOGLE_API_KEY}'")
 print(f"CENSUS_API_KEY value: '{CENSUS_API_KEY}'")
