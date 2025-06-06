@@ -5,7 +5,6 @@
 
 **BizWiz** is an advanced commercial location analysis system designed to identify optimal restaurant locations using machine learning, demographic analysis, and competitive intelligence. Originally developed for Raising Cane's expansion analysis, it supports **300+ cities across the continental United States**.
 
-![BizWiz Dashboard](docs/images/dashboard-preview.png)
 
 ## 🎯 **Key Features**
 
@@ -360,7 +359,7 @@ python enhanced_data_collection.py --city austin_tx --debug
 
 ## 🤝 **Contributing**
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+We welcome contributions!
 
 ### **Development Setup**
 ```bash
@@ -386,10 +385,6 @@ black src/
 - 🔌 **Integrations**: Additional data sources and APIs
 - 📱 **Mobile Support**: Responsive design improvements
 - 🧪 **Testing**: Unit tests and integration tests
-
-## 📄 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 **Acknowledgments**
 
